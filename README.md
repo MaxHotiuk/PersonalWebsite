@@ -59,6 +59,6 @@ To run this project locally, follow these steps:
 
 If you have any questions, feedback, or just want to connect, feel free to reach out to me:
 
-- **Email**: max.hotiuk@example.com
+- **Email**: hotiukmax@gmail.com
 - **LinkedIn**: [Max Hotuik](https://github.com/MaxHotiuk)
 - **GitHub**: [Maksym Hotiuk](https://www.linkedin.com/in/maxhotiuk/)
