@@ -1,12 +1,11 @@
 export interface Project {
-  id: string;
+  id: number;
   title: string;
   description: string;
   technologies: string[];
-  imageUrl: string;
   githubUrl?: string;
   liveUrl?: string;
-  features: string[];
+  keyFeatures: string[];
 }
 
 export interface Skill {
