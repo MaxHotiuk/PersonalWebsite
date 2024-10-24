@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
     git clone https://github.com/MaxHotiuk/personal-site.git
 2. Navigate into the project directory:
     ```bash
-    cd personal-site
+    cd MaksymHotiuk
 3. Install the dependencies:
     ```bash
     npm install
