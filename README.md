@@ -30,6 +30,7 @@ This website serves as my personal portfolio where I present my work, skills, an
 - **DaisyUI**: Tailwind CSS components to simplify styling and UI design.
 - **TypeScript**: For writing structured, type-safe code in Angular.
 - **GitHub Pages**: The site is hosted using GitHub Pages for easy deployment.
+- **EmailJS**: For contacting.
 
 ## Installation
 
